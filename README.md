@@ -12,4 +12,8 @@ To change the lenght of the list, refer to line 3.
 This code gives you all the double-time installed files, which will help you to identify and clean the files that should not exist.
 To change the directory to scan, refer to line 1.
 
+- temporaryFiles.ps1 :
+This code searches in some directories known for holding a copy of recent files downloaded, by example and delete their content.
+Those files are not needed by your system, and their deleting will not change anything for the use of your device.
+
 For a more complete analysis, install WinDirStat, wich gives you a better view on *all* your files.
