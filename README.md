@@ -15,5 +15,6 @@ To change the directory to scan, refer to line 1.
 - temporaryFiles.ps1 :
 This code searches in some directories known for holding a copy of recent files downloaded, by example and delete their content.
 Those files are not needed by your system, and their deleting will not change anything for the use of your device.
+To modify the targeted directories, please refer to line 2->6.
 
 For a more complete analysis, install WinDirStat, wich gives you a better view on *all* your files.
